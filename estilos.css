@@ -50,8 +50,8 @@ p{
 body{
     background-color: rgb(202, 196, 196);
 }
-.img03{   width: 20%;
-    height: auto;
+.img03{    height:width: 20%;
+    auto;
     padding: 6px;
     display: block;
     margin: 0% auto;
@@ -62,4 +62,22 @@ body{
 }
 body{
     background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.img01{
+     height:width: 20%;
+    auto;
+    padding: 6px;
+    display: block;
+    margin: 0% auto;
+    border-radius: 15px;
+
 }
